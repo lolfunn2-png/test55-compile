@@ -55,5 +55,5 @@ android {
 
 dependencies {
   // Use compileOnly for Xposed API so it is not bundled in the APK
-  compileOnly(files("libs/exposedbridge-54.jar"))
+  compileOnly(files("libs/XposedBridgeApi-54.jar"))
 }
