@@ -1,0 +1,6 @@
+{
+  "name": "Auto Time Fix",
+  "description": "An Xposed Module for Android 4.4.2 KitKat STB devices that automatically forces time synchronization using NTP after boot stabilization and network availability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
