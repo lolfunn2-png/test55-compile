@@ -55,5 +55,5 @@ android {
 
 dependencies {
   // Use compileOnly for Xposed API so it is not bundled in the APK
-  compileOnly("de.robv.android.xposed:api:82")
+  compileOnly("de.robv.android.xposed:api:54")
 }
