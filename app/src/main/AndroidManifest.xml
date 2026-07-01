@@ -19,7 +19,7 @@
             android:value="Auto Time Fix for STB devices. Wait 30s after boot, wait for network, then run NTP sync." />
         <meta-data
             android:name="xposedminversion"
-            android:value="82" />
+            android:value="54" />
 
     </application>
 
